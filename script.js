@@ -3,7 +3,7 @@ let vragen = [
     {
         vraag: "Wat is 2 + 2?",
         antwoorden: ["3", "4", "5", "6"],
-        correct: 1
+        correct: 2
     },
     {
         vraag: "Welke taal gebruiken we in de browser?",
