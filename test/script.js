@@ -8,7 +8,7 @@ let vragen = [
     {
         vraag: "Welke taal gebruiken we in de browser?",
         antwoorden: ["Python", "C#", "JavaScript", "Java"],
-        correct: 2
+        correct: 3
     }
 ];
 
